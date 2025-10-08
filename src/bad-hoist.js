@@ -1,6 +1,6 @@
 const debugFunc = () => {
   let name = 'Zo';
-  let mood = 'happy';
+  const mood = 'happy';
   let time = 'today';
   console.log(`Hello ${name}, are you feeling ${mood} ${time}?`);
   
